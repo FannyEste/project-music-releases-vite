@@ -117,6 +117,10 @@ body {
   text-decoration: underline;
 }
 
+.separator {
+  color: #a0a0a0; /* Change the color of the separators */
+}
+
 /* Responsive styling */
 @media (max-width: 768px) {
   .album-list {
