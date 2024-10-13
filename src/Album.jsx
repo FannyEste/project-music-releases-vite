@@ -44,9 +44,9 @@ const Album = ({ album }) => {
 
         {/* Controls - Play, Heart, Dots */}
         <div className="controls">
-          <img className="heart-btn" src="/src/assets/icons/heart.svg" alt="Favorite" />
-          <img className="play-btn" src="/src/assets/icons/play.svg" alt="Play" />
-          <img className="dots-btn" src="/src/assets/icons/dots.svg" alt="More options" />
+          <img className="heart-btn" src="/public/icons/heart.svg" alt="Favorite" />
+          <img className="play-btn" src="/public/icons/play.svg" alt="Play" />
+          <img className="dots-btn" src="/public/icons/dots.svg" alt="More options" />
         </div>
       </div>
 
